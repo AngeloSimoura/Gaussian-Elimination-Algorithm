@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Atividade Avaliativa 01_CalcNumerico.ipynb
-"""
-
-#Questão 1
 import random
 n=3
 A = []
